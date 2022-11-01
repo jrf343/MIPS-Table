@@ -1,3 +1,7 @@
+# main.asm
+# author Julia Frances <jrf343@drexel.edu>
+# date August 22, 2022  
+        
         .data
 prompt: .asciiz "Enter the maximum value in the table: "
 value:  .word 0
